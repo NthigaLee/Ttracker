@@ -5,7 +5,7 @@ function myFunction(){
   if (a===b&&b===c){
       alert("This is an equilateral triangle");
   }
-  else if(a===b&&b===c&&c!==a||b===c&&c===a&&a!==b||c===a&&a===b&&b!==a){
+  else if(a===b&&c!==a||b===c&&a!==b||c===a&&b!==a){
     alert("This is an isosceles triangle.");
 }
   else if(a+b>c&&b+c>a&&c+a>b){
