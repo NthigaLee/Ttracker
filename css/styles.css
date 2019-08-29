@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://cdn125.picsart.com/216377810000202.gif);
+
+}
+img{
+border-radius:8px;
+opacity: 0.5;
+width: 300px;
+height: 200px;
+}
+h1{
+    color:#CA9A46;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h2{
+    color: #E8A22A;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+p{
+    color:#F6BB57;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.content{
+    background-image: url(https://thumbs.gfycat.com/BlankSpanishHedgehog-max-1mb.gif);
+}
