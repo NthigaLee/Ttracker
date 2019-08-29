@@ -4,10 +4,13 @@
 ## Description
 A site that informs user of the type of triangle whose input has been submitted by user.
 ## Setup/Installation Requirements
-* Not ready for that yet
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to ru a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+Simply access the link: nthigalee.github.io/Ttracker and follow the instructions.
+## BDD
+The program takes into account the following in order:
+For an equilateral triangle, all sides must be equal.
+For an isosceles triangle, two sides are exactly equal.
+For a scalene triangle, none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third side.
+Most importantly, if the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle CANNOT be formed using those values. (For example, the values 9,4 & 3 cannot form a triangle.)
 ## Technologies Used
 HTML,CSS, JS
 ## Support and contact details
